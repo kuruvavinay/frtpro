@@ -7,7 +7,8 @@ https://lively-pebble-0b4d05110.1.azurestaticapps.net/#banner
 
 #HEALTHCARE
 
-One of the most popular college resturant in the capital, CU resturant enjoys a large hall that can accommodate more than 150 students at a given time. Famous for its a huge egg-shaped snack in a bread jacket with lots of stuffing. Apart from the famed chops, the menu includes chicken pakora, chicken stew or chicken curry, roti, dalpuri, alu dum, ghooghni, noodles, burgers, biscuits and cakes from Monginis, and of course tea, coffee , aerated drinks, samosas and spring rolls at a reasonably low price, the canteen serves as a perfect adda for enthusiasts. CU resturant , located in mohali chnadigarh, has an exceptionally huge campus, stretching across an area of more than 200 acres. But it is the only resturant that is considered the favourite hangout zone by students. A wide variety of food is in the offering at the lowest rates and keeps student pretty pleased.
+Healthcare provides the hospital and medical store. Healthcare provides online consulting and booking consulting. Our Agenda is to make living healthy possible for humans world-wide.we enable them with secure information storage and access from anywhere in the world.we provides 24*7 hours support.we provides the Emergency services too who reqiured consulting emergency.we sale the medicines of your required brand and required medicine which we delivery within 24hours.for query or booking consulting people can go on online.
+
 
 # Landing page : 
 
