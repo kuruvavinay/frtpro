@@ -21,7 +21,7 @@ One of the most popular college resturant in the capital, CU resturant enjoys a 
 
 ![Screenshot (23)](https://user-images.githubusercontent.com/103072884/177424992-ea7f85ee-3759-447c-b0bd-1ff9b0259d63.png)
 
-# Contact Page :
+# Contact Page AND FOR BOOKING APPOINTMENT:
 
 ![Screenshot (25)](https://user-images.githubusercontent.com/103072884/177425067-0418ab72-95ac-4b5f-8725-359c2519b600.png)
 
